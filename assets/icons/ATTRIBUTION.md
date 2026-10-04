@@ -1,0 +1,2 @@
+Brand icons: Devicon v2.17.0 (MIT; see DEVICON-LICENSE.txt), https://github.com/devicons/devicon. Hugging Face, OpenSearch and MLflow icons: Simple Icons v15.0.0 (CC0), https://github.com/simple-icons/simple-icons. Brand trademarks remain with their owners. Concept icons (vision, evaluation, agent, retrieval, embeddings, API) are original SVG artwork for this portfolio.
+Kubeflow logo: official Kubeflow website repository, https://github.com/kubeflow/website/blob/master/static/images/logo.svg (Kubeflow trademark).
