@@ -9,7 +9,7 @@ window.PORTFOLIO = {
   "linkedin": "https://linkedin.com/in/tirtho496",
   "resume": "",
   "portrait": "assets/profile.jpeg",
-  "introduction": "I build and improve ML systems, from multimodal retrieval to faster GPU training. My work connects experimentation with the software that makes it useful.",
+  "introduction": "I build intelligent things, ask too many research questions, and occasionally trade code for chords. Somewhere between machine learning, research, and music is where I do my best work.",
   "about": "I am a recent joint Master’s graduate with experience across industrial machine learning, software engineering, and computer vision research. I enjoy understanding how systems behave, finding where they fail, and making changes that can be measured. My interests span production ML, performance engineering, and software built around intelligent systems.",
   "experience": [
     {
