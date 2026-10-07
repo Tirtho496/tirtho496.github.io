@@ -267,6 +267,7 @@ window.PORTFOLIO = {
         "MLflow",
         "Kubeflow",
         "AWS",
+        "Databricks",
         "GitHub Actions"
       ]
     }
@@ -305,6 +306,7 @@ window.PORTFOLIO = {
     "AWS": "amazonwebservices",
     "GitHub Actions": "githubactions",
     "C++": "cpp",
-    "Javascript": "javascript"
+    "Javascript": "javascript",
+    "Databricks": "databricks"
   }
 };
