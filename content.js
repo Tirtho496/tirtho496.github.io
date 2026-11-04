@@ -129,7 +129,7 @@ window.PORTFOLIO = {
         "Multimodal retrieval",
         "Evaluation"
       ],
-      "url": "Company IP"
+      "url": ""
     },
     {
       "title": "Hybrid Multimodal Asset Search",
@@ -141,7 +141,7 @@ window.PORTFOLIO = {
         "BERT",
         "Vision-language models"
       ],
-      "url": "Company IP"
+      "url": ""
     },
     {
         "title": "Machine Learning on Edge Devices",
