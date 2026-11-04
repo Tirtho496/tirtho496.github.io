@@ -114,7 +114,7 @@ window.PORTFOLIO = {
         "PostgreSQL",
         "pgvector"
       ],
-      "url": ""
+      "url": "https://github.com/Tirtho496/JobRadar"
     },
     {
       "title": "Agentic Multimodal RAG",
@@ -129,7 +129,7 @@ window.PORTFOLIO = {
         "Multimodal retrieval",
         "Evaluation"
       ],
-      "url": ""
+      "url": "Company IP"
     },
     {
       "title": "Hybrid Multimodal Asset Search",
@@ -141,7 +141,22 @@ window.PORTFOLIO = {
         "BERT",
         "Vision-language models"
       ],
-      "url": ""
+      "url": "Company IP"
+    },
+    {
+        "title": "Machine Learning on Edge Devices",
+        "category": "Embedded AI/ML",
+        "label": "TinyML · Audio and Computer Vision",
+        "description": "Two embedded ML projects: spoken city recognition on Arduino for weather lookup, and rock-paper-scissors image classification using a compact CNN. Explored pruning, quantization, and TensorFlow Lite Micro deployment.",
+        "tags": [
+          "Arduino",
+          "Python",
+          "TensorFlow Lite Micro",
+          "Edge Impulse",
+          "TinyML",
+          "Model Optimization"
+        ],
+        "url": "https://github.com/Tirtho496/edge-computing-for-ml"
     },
     {
       "title": "Squeak!",
@@ -154,7 +169,7 @@ window.PORTFOLIO = {
         "MongoDB",
         "Web Security"
       ],
-      "url": ""
+      "url": "https://github.com/Tirtho496/Squeak"
     },
     {
       "title": "Video Action Recognition",
@@ -169,8 +184,26 @@ window.PORTFOLIO = {
         "Tensorflow",
 
       ],
-      "url": ""
+      "url": "https://github.com/Tirtho496/Violence-Detection-Using-CNN-and-LSTM"
+    },
+    
+    {
+      "title": "Online Grocery Store",
+      "category": "Web Development",
+      "label": "Full-stack development · Software Engineering",
+      "description": "A full-stack e-commerce web application for an online grocery store, developed using Laravel and MySQL as part of an undergraduate software engineering project.",
+      "tags": [
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "Full-stack Development"
+      ],
+      "url": "https://github.com/Tirtho496/E-Commerce-Web-Application_Online-Grocery-Store"
     }
+
+
   ],
   "education": [
     {
