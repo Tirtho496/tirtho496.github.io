@@ -322,6 +322,7 @@ window.PORTFOLIO = {
     "Computer vision": "vision",
     "Model evaluation": "evaluation",
     "Agentic RAG": "agent",
+    "OpenCV": "opencv",
     "Multimodal retrieval": "retrieval",
     "Embeddings": "embeddings",
     "LLM APIs": "api",
