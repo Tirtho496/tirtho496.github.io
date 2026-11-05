@@ -266,7 +266,8 @@ window.PORTFOLIO = {
         "TensorFlow",
         "Hugging Face",
         "Computer vision",
-        "Model evaluation"
+        "Model evaluation",
+        "OpenCV"
       ]
     },
     {
